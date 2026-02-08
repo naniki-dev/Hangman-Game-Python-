@@ -2,7 +2,7 @@ import random
 
 # while loop until the guesses are correct or the lives finish
 def main():
-    print("\nWelcome to the Hangman Terminal Game!\n\nThe rules are:")
+    print("\nWelcome to the Word Guessing Terminal Game!\n\nThe rules are:")
     print("- Guess the word by guessing the letters.\n- The theme is programming, so guess words related to that.")
     print("- If you guess the secret word correctly, you win!\n- If you guess the wrong letters, you lose a life💔\n")
   
