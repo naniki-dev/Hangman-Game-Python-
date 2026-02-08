@@ -1,5 +1,5 @@
 import pytest
-from hangman import generates_blank_word, correct
+from guessing_game import generates_blank_word, correct
 
 def test_generates_blank_word_length():
     word = "python"
