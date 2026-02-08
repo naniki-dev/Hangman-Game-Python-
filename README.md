@@ -1,7 +1,7 @@
-# Hangman Game (Python)
+# Word Guessing Game (Python)
 
 ## Description
-This project is a Hangman Game, played through the terminal. The user has to guess the secret word, by inputting random letters. The user has 5 lives, if the user guesses an incorrect letter then they lose a live. The game ends when the user either guesses the secret word correctly or runs out of lives.
+This project is a Word Guessing Game, played through the terminal. The user has to guess the secret word, by inputting random letters. The user has 5 lives, if the user guesses an incorrect letter then they lose a live. The game ends when the user either guesses the secret word correctly or runs out of lives.
 
 ## Features
 - Terminal-based gameplay
